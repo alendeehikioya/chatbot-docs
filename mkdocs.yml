@@ -1,0 +1,9 @@
+site_name: ChatBot Doc
+
+nav:
+  - Home: index.md
+  - API: api_reference.md
+  - Authentication: auth.md
+  - Architecture: architecture.md
+  - Quick Start: quickstart.md
+  - Users: users.md
